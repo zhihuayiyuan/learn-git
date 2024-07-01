@@ -1,3 +1,6 @@
+# 本仓库为学习测试的垃圾 请立即退出远离垃圾项目
+# This is a RUBBISH!
+
 # Windows软件集合
 
 自己用过的好用的Windows软件
